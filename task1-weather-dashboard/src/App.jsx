@@ -1,12 +1,10 @@
-import { useState } from "react";
+import Weather from "./components/Weather";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
-    <div className="text-4xl text-gray-500">
-      <h1> Hello </h1>
-    </div>
+    <>
+      <Weather />
+    </>
   );
 }
 
