@@ -9,14 +9,12 @@ Building a weather dashboard is a classic project that combines API integration 
 ## 🚀 Features
 
 - **Real-Time Search:** Get instant weather updates for any city globally.
-- **5-Day Forecast:** Plan ahead with a detailed extended forecast.
 - **Dynamic Backgrounds:** UI elements change color or imagery based on the weather (e.g., sunny, rainy, or snowy).
-- **Persistent History:** Keeps track of your recently searched cities using local storage.
 - **Unit Conversion:** Toggle effortlessly between Metric (°C) and Imperial (°F) units.
 
 ## 🛠️ Built With
 
-- **Frontend:** HTML5, CSS3 (Flexbox/Grid), and JavaScript (ES6+).
+- **Frontend:** React.js,Css.
 - **API:** [OpenWeatherMap API](https://openweathermap.org/api) for live data.
 - **Styling:** Bootstrap or Tailwind CSS (optional—mention if used).
 
