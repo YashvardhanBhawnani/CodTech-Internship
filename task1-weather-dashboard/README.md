@@ -1,5 +1,5 @@
 ---
-**SkyCast** is a sleek, responsive web application that provides real-time weather insights for any city worldwide. By leveraging modern Web APIs, it delivers accurate meteorological data, including temperature, humidity, and wind speed, paired with dynamic visuals that adapt to current conditions.
+A sleek, responsive web application that provides real-time weather insights for any city worldwide. By leveraging modern Web APIs, it delivers accurate meteorological data, including temperature, humidity, and wind speed, paired with dynamic visuals that adapt to current conditions.
 
 ## 🚀 Features
 
