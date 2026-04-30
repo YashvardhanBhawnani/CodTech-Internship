@@ -37,3 +37,6 @@ One of the primary technical hurdles was synchronizing the timezones. Since weat
 
 ### Conclusion and Future Iterations
 This dashboard is a testament to the power of modern JavaScript frameworks in handling real-time data. It is not just a tool for checking the temperature; it is a scalable foundation. Future versions will include **Geolocation API** for automatic local weather detection and a **MERN-based backend** to allow users to save "Favorite Locations" to a permanent profile, further evolving this from a single-page utility into a comprehensive personal weather assistant.
+
+## Output
+<img width="2159" height="1198" alt="Image" src="https://github.com/user-attachments/assets/863aa743-14bd-4ee6-bc83-4dfb6e8d7940" />
