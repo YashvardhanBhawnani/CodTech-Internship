@@ -1,4 +1,4 @@
-# 🚀 React.js Remote Internship Tasks
+# 🚀 Codtech IT Solutions React.js Remote Internship Tasks
 
 This repository contains the projects and tasks completed as part of my **COdtech IT Solutions Remote React.js Internship**. The goal of this internship is to strengthen frontend development skills using React and build real-world, scalable applications.
 
