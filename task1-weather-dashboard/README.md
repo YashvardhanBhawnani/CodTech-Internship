@@ -13,7 +13,7 @@
 *Mentor* : NEELA SANTOSH KUMAR
 
 ---
-## ☁️ Project Overview: SkyCast Weather Intelligence Dashboard
+## ☁️ Project Overview: Weather Intelligence Dashboard
 
 ### The Objective and Architectural Vision
 The **Weather Dashboard** is a sophisticated frontend application designed to bridge the gap between complex meteorological data and intuitive user visualization. In an era where weather patterns are increasingly volatile, the objective of this project was to create a reliable, high-speed interface that provides users with hyper-local weather insights. Built with **React.js**, the application moves beyond simple data fetching; it focuses on state management, asynchronous API synchronization, and dynamic UI rendering to provide a seamless "live" experience.
@@ -28,12 +28,6 @@ When a user searches for a city, the application initiates multiple concurrent r
 A key challenge was making the data "glanceable." To achieve this, I implemented a **Conditional Rendering** system where the application's visual theme—including background gradients and weather icons—dynamically shifts based on the weather ID returned by the API. If the API reports "Rain," the dashboard adapts with a cool, muted palette and animated precipitation icons, enhancing the emotional connection between the user and the digital interface.
 
 The layout was engineered using **CSS Grid and Flexbox** to ensure a "Mobile-First" experience. Weather dashboards are frequently accessed on the go; therefore, the grid system was designed to stack logically on mobile devices while expanding into a multi-column command center on desktop screens.
-
-### State Persistence and Optimization
-To improve performance and user retention, I integrated **Local Storage API**. By persisting the user's search history, the application eliminates the need for repetitive typing. Users can simply click on a "Recent Cities" sidebar to re-trigger a search, showcasing an understanding of "User Persistence" patterns. Furthermore, I optimized the application by implementing **Debouncing** on the search input, preventing unnecessary API calls and staying well within the rate limits of the free-tier API.
-
-### Challenges and Growth
-One of the primary technical hurdles was synchronizing the timezones. Since weather data is often returned in UTC, I had to develop a utility function to convert Unix timestamps into the user’s local time or the target city’s time. This required precise logic to handle global offsets, demonstrating attention to detail and a commitment to data accuracy.
 
 ### Conclusion and Future Iterations
 This dashboard is a testament to the power of modern JavaScript frameworks in handling real-time data. It is not just a tool for checking the temperature; it is a scalable foundation. Future versions will include **Geolocation API** for automatic local weather detection and a **MERN-based backend** to allow users to save "Favorite Locations" to a permanent profile, further evolving this from a single-page utility into a comprehensive personal weather assistant.
