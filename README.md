@@ -1,31 +1,70 @@
-React.js Remote Internship Projects
-This repository contains a series of professional-grade projects developed during a React.js remote internship. Each project focuses on core React concepts, state management, API integration, and modern frontend development practices.
+# 🚀 React.js Remote Internship Tasks
 
-🚀 Projects Overview
-1. Weather Dashboard
-A real-time weather tracking application that provides detailed meteorological data for any location worldwide.
+This repository contains the projects and tasks completed as part of my **COdtech IT Solutions Remote React.js Internship**. The goal of this internship is to strengthen frontend development skills using React and build real-world, scalable applications.
 
-Key Features: Dynamic backgrounds based on weather conditions, 5-day forecasts, and location-based searching.
+---
 
-Tech Stack: React, OpenWeatherMap API, Axios, CSS Modules.
+## 📌 Projects Included
 
-2. Movie Recommendation Engine
-A personalized platform to discover films, view trailers, and check ratings.
+### 🎬 1. Movie Recommendation App
+A React application that suggests movies based on user preferences.
 
-Key Features: Search functionality, genre filtering, and detailed movie profiles.
+**Features:**
+- Search for movies
+- Display movie details (rating, overview, poster)
+- Recommendation system based on selected movie
+- API integration (e.g., TMDB)
 
-Tech Stack: React, TMDB API, React Router, Styled Components.
+**Tech Stack:**
+- React.js
+- REST API
+- CSS / Tailwind
 
-3. Real-Time Chat Application
-A lightweight messaging platform supporting instant communication and room-based chats.
+---
 
-Key Features: User authentication, real-time message updates, and presence indicators.
+### 🌦️ 2. Weather Dashboard
+A responsive weather app that shows real-time weather data.
 
-Tech Stack: React, Firebase/Socket.io, Tailwind CSS.
+**Features:**
+- Search weather by city
+- Current weather conditions
+- Temperature, humidity, wind speed
+- Dynamic UI based on weather
 
-4. Productivity Chrome Extension
-A browser-integrated tool designed to enhance user workflow directly from the Chrome toolbar.
+**Tech Stack:**
+- React.js
+- OpenWeather API
+- CSS / Tailwind
 
-Key Features: Todo list, pomodoro timer, and quick-access bookmarks.
+---
 
-Tech Stack: React, Chrome Extension API (Manifest V3), Shadow DOM.
+### 💬 3. Real Time Chat Application
+A real-time chat application with modern UI.
+
+**Features:**
+- User authentication (optional)
+- Real-time messaging
+- Chat UI with message bubbles
+- Responsive design
+
+**Tech Stack:**
+- React.js
+- Firebase / Socket.io (depending on implementation)
+- CSS / Tailwind
+
+---
+
+### 🧩 4. Chrome Extension For Personal Productivity
+A custom Chrome extension built using React.
+
+**Features:**
+- Popup UI built with React
+- Interaction with browser APIs
+- Lightweight and fast
+
+**Tech Stack:**
+- React.js
+- Chrome Extension APIs
+- JavaScript
+
+---
