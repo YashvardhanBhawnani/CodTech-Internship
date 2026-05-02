@@ -159,7 +159,7 @@ export default function App() {
               </div>
 
               {typers.length ? (
-                <div className="text-xs text-white">
+                <div className="text-xs text-[#303030]">
                   {typers.join(", ")} is typing...
                 </div>
               ) : (
