@@ -150,4 +150,10 @@ node server.js
 
 ---
 ## Output
-
+<img width="2145" height="1179" alt="Image" src="https://github.com/user-attachments/assets/a2ea9bd5-5cf2-4d41-97ad-248f6a3a43e4" />
+<br/>
+<img width="1045" height="210" alt="Image" src="https://github.com/user-attachments/assets/4d2890a7-751d-4a4b-b771-61ebf366a183" />
+<br/>
+<img width="1066" height="1146" alt="Image" src="https://github.com/user-attachments/assets/2487a634-af8c-4867-a230-2c17f64a1a49" />
+<br/>
+<img width="1036" height="411" alt="Image" src="https://github.com/user-attachments/assets/f2fa93e9-8362-4136-b774-7a65665d5d3f" />
