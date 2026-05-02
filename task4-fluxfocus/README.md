@@ -124,6 +124,7 @@ FluxFocus/
 │
 ├── manifest.json         # Extension configuration
 ├── background.js         # Time tracking logic
-
---- 
-#
+```
+---
+## Output
+<img width="545" height="859" alt="Image" src="https://github.com/user-attachments/assets/1953b194-e590-4539-ad3e-f81889fc87c2" />
