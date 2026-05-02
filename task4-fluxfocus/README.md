@@ -124,3 +124,6 @@ FluxFocus/
 │
 ├── manifest.json         # Extension configuration
 ├── background.js         # Time tracking logic
+
+--- 
+#
